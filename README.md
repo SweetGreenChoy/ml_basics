@@ -3,12 +3,8 @@
 **Page to upload machine learning basic skills with well known datas**
 
 
-***Links tbu***
+***tbu***
   
-### Regressions
-
-### Classifications
-
-### Random Forest
-
-### Clustering
+- **ML1**. Sonar Detection(Rock/Mine)  
+> Use sonar datasets to predict rock or mine  
+> **Keywords** : Logistic Regression | KNeighbor Classification
