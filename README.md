@@ -2,6 +2,7 @@
 
 **Page to preform machine learning basic skills with well known datasets**
 
+---
   
 - **ML1**. Sonar Detection(Rock/Mine)  **[Code](ML1_Sonar_Prediction.ipynb)**
 
